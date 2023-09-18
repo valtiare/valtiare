@@ -1,7 +1,7 @@
 ## Hello
 
- I am a programmer, Proficient in Python, PHP, and Kotlin.
- Currently Learning JavaScript.
+ I am a programmer, Proficient in Python, PHP, Lua (Basics), C (Basics) and Kotlin.
+ Currently Learning JavaScript. 
 
 ### 🌍 Contact Me
 
