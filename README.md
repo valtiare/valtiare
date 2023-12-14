@@ -6,4 +6,4 @@
 ### 🌍 Contact Me
 
 - Signal: +44 7342 769960 
-- Telegram: [@MeyerLansky](https://t.me/MeyerLansky) 
+- Telegram: [@telegram](https://t.me/dysgenesis) 
