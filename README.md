@@ -1,6 +1,6 @@
 ## Hello
 
- I am a programmer, Proficient in Python, PHP, Lua, C/C++, java/js, kotlin, and Typescript
+I code
 
 ### 🌍 Contact Me
 
