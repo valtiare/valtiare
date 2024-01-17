@@ -4,7 +4,8 @@ I code
 
 ### 🌍 Contact Me
 
-- Signal: +44 7342 769960 
+- Signal: +44 7342 769960
+- xmpp: ilovemusic@jabber.fr
 - Telegram: [@telegram](https://t.me/rappelling) 
 
 <div align="center">
