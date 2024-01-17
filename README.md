@@ -1,22 +1,29 @@
-# Hello, I'm [Your Name] 🚀
+## Hello
 
-Welcome to my coding space! 👨‍💻
+I code
 
 ### 🌍 Contact Me
 
-- **Signal**: +44 7342 769960
-- **Telegram**: [@rappelling](https://t.me/rappelling)
+- Signal: +44 7342 769960 
+- Telegram: [@telegram](https://t.me/rappelling) 
 
 <div align="center">
-  <a href="https://github.com/valtiare">
-    <img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp" alt="Coding GIF" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/valtiare"><img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp" /></a>
+  </div>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kotlin,c,cs,cpp)](https://skillicons.dev)
 
-```plaintext
+
+
+```
+START
+
+Discord: @hahaahaaa
+Email: [not working]
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mDMEZaUjKxYJKwYBBAHaRw8BAQdAmGEf+XzAHtbuYcHVv6J3aIqS5lOtyE9910Yn
 LKO3NmO0BnVuaXRfOYiZBBMWCgBBFiEEpboBS3+rbM1vEuDPIn5hOLGH/mYFAmWl
 IysCGwMFCQWk2QUFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQIn5hOLGH
@@ -29,3 +36,5 @@ zhCFf611C/QW9bIXSsCw5BIXL+PWf5YiLIRCRo6uUV4A/1VQxHvgKfmFbnI4pl+l
 =ikiY
 -----END PGP PUBLIC KEY BLOCK-----
 
+
+```
