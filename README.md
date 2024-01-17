@@ -12,7 +12,7 @@ I code
     <a href="https://github.com/valtiare"><img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp" /></a>
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,kotlin,c,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kotlin,c,cs,cpp)](https://skillicons.dev)
 
 
 
