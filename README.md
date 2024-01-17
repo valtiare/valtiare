@@ -12,7 +12,7 @@ I code
     <a href="https://github.com/femboyx"><img src="https://i.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.webp" /></a>
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,discord,php,linux,py,vscode,kotlin,c,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,kotlin,c,cs,cpp)](https://skillicons.dev)
 
 
 
